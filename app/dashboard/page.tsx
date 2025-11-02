@@ -3,7 +3,7 @@ const Page = () => {
 
   return (
     <>
-      <p>Dashboard Page!!</p>
+      <p>Dashboard Page!!!</p>
     </>
   )
 }
